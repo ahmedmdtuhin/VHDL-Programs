@@ -1,0 +1,15 @@
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+| Tool Version : Vivado v.2019.1 (win64) Build 2552052 Fri May 24 14:49:42 MDT 2019
+| Date         : Sat Oct 21 13:48:04 2023
+| Host         : Ahmed running 64-bit major release  (build 9200)
+| Command      : report_bus_skew -warn_on_violation -file switch_led_bus_skew_routed.rpt -pb switch_led_bus_skew_routed.pb -rpx switch_led_bus_skew_routed.rpx
+| Design       : switch_led
+| Device       : 7k70t-fbv676
+| Speed File   : -1  PRODUCTION 1.12 2017-02-17
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Bus Skew Report
+
+No bus skew constraints
+

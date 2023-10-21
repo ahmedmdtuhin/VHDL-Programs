@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Oct 22 00:22:34 2023
+# Process ID: 10984
+# Current directory: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/Lab_1_Switch_led/Lab_1_Switch_led.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/Lab_1_Switch_led/Lab_1_Switch_led.sim/sim_1/behav/xsim/xsim.dir/switch_sim_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/Lab_1_Switch_led/Lab_1_Switch_led.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/Lab_1_Switch_led/Lab_1_Switch_led.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source E:/TUK_Summer2023/Sep -notrace
+couldn't read file "E:/TUK_Summer2023/Sep": permission denied
+INFO: [Common 17-206] Exiting Webtalk at Sun Oct 22 00:22:34 2023...
