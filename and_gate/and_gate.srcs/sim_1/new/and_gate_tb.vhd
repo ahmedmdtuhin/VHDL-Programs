@@ -31,9 +31,13 @@ port map (
 
 stimulus : process 
 begin
+
+    report "starting input pattern" severity note;
     a<='0'; 
     b<='0';
     wait for 100 ns;
+    report "Input pattern 00" severity note;
+    assert (c='0') report "Failed at input 00" severity note;
 
     a<='0'; 
     b<='1';
