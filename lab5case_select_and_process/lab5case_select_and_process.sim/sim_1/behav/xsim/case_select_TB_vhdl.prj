@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../lab5case_select_and_process.srcs/sources_1/new/case_select.vhd" \
+"../../../../lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd" \
+
+# Do not sort compile order
+nosort

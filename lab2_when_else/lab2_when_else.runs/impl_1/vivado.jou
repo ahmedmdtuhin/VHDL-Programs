@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Wed Nov  1 03:47:12 2023
+# Process ID: 10944
+# Current directory: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab2_when_else/lab2_when_else.runs/impl_1
+# Command line: vivado.exe -log when_else.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source when_else.tcl -notrace
+# Log file: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab2_when_else/lab2_when_else.runs/impl_1/when_else.vdi
+# Journal file: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab2_when_else/lab2_when_else.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source when_else.tcl -notrace

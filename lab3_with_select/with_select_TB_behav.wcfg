@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="with_select_TB_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="with_select_TB" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="206000001fs"></ZoomEndTime>
+      <Cursor1Time time="154180000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="285"></NameColumnWidth>
+      <ValueColumnWidth column_width="150"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="6" />
+   <wvobject fp_name="/with_select_TB/A_TB" type="logic">
+      <obj_property name="ElementShortName">A_TB</obj_property>
+      <obj_property name="ObjectShortName">A_TB</obj_property>
+   </wvobject>
+   <wvobject fp_name="/with_select_TB/B_TB" type="logic">
+      <obj_property name="ElementShortName">B_TB</obj_property>
+      <obj_property name="ObjectShortName">B_TB</obj_property>
+   </wvobject>
+   <wvobject fp_name="/with_select_TB/C_TB" type="logic">
+      <obj_property name="ElementShortName">C_TB</obj_property>
+      <obj_property name="ObjectShortName">C_TB</obj_property>
+   </wvobject>
+   <wvobject fp_name="/with_select_TB/D_TB" type="logic">
+      <obj_property name="ElementShortName">D_TB</obj_property>
+      <obj_property name="ObjectShortName">D_TB</obj_property>
+   </wvobject>
+   <wvobject fp_name="/with_select_TB/control_TB" type="array">
+      <obj_property name="ElementShortName">control_TB[1:0]</obj_property>
+      <obj_property name="ObjectShortName">control_TB[1:0]</obj_property>
+      <obj_property name="Radix">BINARYRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/with_select_TB/Z_TB" type="logic">
+      <obj_property name="ElementShortName">Z_TB</obj_property>
+      <obj_property name="ObjectShortName">Z_TB</obj_property>
+   </wvobject>
+</wave_config>

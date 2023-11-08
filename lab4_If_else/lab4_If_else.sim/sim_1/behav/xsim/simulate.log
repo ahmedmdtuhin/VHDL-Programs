@@ -1,0 +1,12 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+Note: Input pattern 1001 
+Time: 110 ns  Iteration: 0  Process: /If_else_TB/Stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab4_If_else/lab4_If_else.srcs/sim_1/new/If_else_TB.vhd
+Note: Passed at input 1001 for select line 2 so, C will pass to the output which is 0
+Time: 110 ns  Iteration: 0  Process: /If_else_TB/Stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab4_If_else/lab4_If_else.srcs/sim_1/new/If_else_TB.vhd
+Note: passed at input 1001 for A which is 1
+Time: 120 ns  Iteration: 0  Process: /If_else_TB/Stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab4_If_else/lab4_If_else.srcs/sim_1/new/If_else_TB.vhd
+Note: Passed for A which is 1
+Time: 130 ns  Iteration: 0  Process: /If_else_TB/Stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab4_If_else/lab4_If_else.srcs/sim_1/new/If_else_TB.vhd
+Note: passed for others D is 1
+Time: 140 ns  Iteration: 0  Process: /If_else_TB/Stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab4_If_else/lab4_If_else.srcs/sim_1/new/If_else_TB.vhd

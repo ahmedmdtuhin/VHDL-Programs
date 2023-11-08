@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Wed Nov  1 17:19:17 2023
+# Process ID: 20052
+# Current directory: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.runs/synth_1
+# Command line: vivado.exe -log case_select.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source case_select.tcl
+# Log file: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.runs/synth_1/case_select.vds
+# Journal file: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.runs/synth_1\vivado.jou
+#-----------------------------------------------------------
+source case_select.tcl -notrace

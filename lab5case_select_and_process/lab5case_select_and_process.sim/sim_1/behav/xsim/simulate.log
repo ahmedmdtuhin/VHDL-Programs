@@ -1,0 +1,126 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+Note: Inputs are initiated
+Time: 20 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Passed at sel 11
+Time: 40 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Inputs are initiated
+Time: 60 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Passed at sel 11
+Time: 80 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Inputs are initiated
+Time: 100 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Passed at sel 11
+Time: 120 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Inputs are initiated
+Time: 140 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Passed at sel 11
+Time: 160 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Inputs are initiated
+Time: 180 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Passed at sel 11
+Time: 200 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Inputs are initiated
+Time: 220 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Passed at sel 11
+Time: 240 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Inputs are initiated
+Time: 260 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Passed at sel 11
+Time: 280 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Inputs are initiated
+Time: 300 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Passed at sel 11
+Time: 320 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Inputs are initiated
+Time: 340 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Passed at sel 11
+Time: 360 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Inputs are initiated
+Time: 380 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Passed at sel 11
+Time: 400 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Inputs are initiated
+Time: 420 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Passed at sel 11
+Time: 440 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Inputs are initiated
+Time: 460 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Passed at sel 11
+Time: 480 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Inputs are initiated
+Time: 500 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Passed at sel 11
+Time: 520 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Inputs are initiated
+Time: 540 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Passed at sel 11
+Time: 560 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Inputs are initiated
+Time: 580 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Passed at sel 11
+Time: 600 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Inputs are initiated
+Time: 620 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Passed at sel 11
+Time: 640 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Inputs are initiated
+Time: 660 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Passed at sel 11
+Time: 680 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Inputs are initiated
+Time: 700 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Passed at sel 11
+Time: 720 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Inputs are initiated
+Time: 740 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Passed at sel 11
+Time: 760 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Inputs are initiated
+Time: 780 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Passed at sel 11
+Time: 800 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Inputs are initiated
+Time: 820 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Passed at sel 11
+Time: 840 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Inputs are initiated
+Time: 860 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Passed at sel 11
+Time: 880 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Inputs are initiated
+Time: 900 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Passed at sel 11
+Time: 920 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Inputs are initiated
+Time: 940 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Passed at sel 11
+Time: 960 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Inputs are initiated
+Time: 980 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Passed at sel 11
+Time: 1 us  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Inputs are initiated
+Time: 1020 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Passed at sel 11
+Time: 1040 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Inputs are initiated
+Time: 1060 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Passed at sel 11
+Time: 1080 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Inputs are initiated
+Time: 1100 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Passed at sel 11
+Time: 1120 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Inputs are initiated
+Time: 1140 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Passed at sel 11
+Time: 1160 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Inputs are initiated
+Time: 1180 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Passed at sel 11
+Time: 1200 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Inputs are initiated
+Time: 1220 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
+Note: Passed at sel 11
+Time: 1240 ns  Iteration: 0  Process: /case_select_TB/stimulus  File: E:/TUK_Summer2023/Sep 08_2023/Vhdl_eduvance/lab5case_select_and_process/lab5case_select_and_process.srcs/sim_1/new/case_select_TB.vhd
