@@ -1,7 +1,0 @@
-Running: xsim.dir/lab8_voting_FSM_TB_behav/xsimk.exe -simmode gui -wdb lab8_voting_FSM_TB_behav.wdb -simrunnum 0 -socket 55789
-Design successfully loaded
-Design Loading Memory Usage: 6692 KB (Peak: 6692 KB)
-Design Loading CPU Usage: 15 ms
-Simulation completed
-Simulation Memory Usage: 7368 KB (Peak: 7368 KB)
-Simulation CPU Usage: 15 ms
