@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../lab8_voting_machine.srcs/sources_1/new/lab8_voting_machine.vhd" \
+"../../../../lab8_voting_machine.srcs/sim_1/new/lab8_voting_FSM_TB.vhd" \
+
+# Do not sort compile order
+nosort
